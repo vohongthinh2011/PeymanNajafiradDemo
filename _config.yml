@@ -10,29 +10,29 @@
 locale                   : "en-US"
 title                    : "Secure Ai Autonomy Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr. Paul Rad"
 description              : &description "personal description"
 url                      : https://vohongthinh2011.github.io/PeymanNajafirad/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "vohongthinh2011/PeymanNajafirad"  # "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/najafirad_peyman.jpg"
+  avatar           : "najafirad_peyman.jpg"
   name             : "Dr. Peyman Najafirad (Dr. Paul Rad)"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "he/him"  
+  bio              : "The University of Texas at San Antonio"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "The University of Texas at San Antonio"
+  uri              : "https://vohongthinh2011.github.io/PeymanNajafirad/"
+  email            : "Peyman.Najafirad@utsa.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=uoCn8c8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
